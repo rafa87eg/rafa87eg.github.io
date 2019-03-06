@@ -1,0 +1,55 @@
+*{
+	box-sizing: border-box;
+}
+.header{
+	background-color: blue;
+	text-align: center;
+	padding: 30px;
+}
+
+.header h1{
+	color: green;
+	font-size: 60px;
+}
+.menu{
+	background-color: green;
+	overflow: hidden;
+}
+.menu a{
+	float: left;
+	display: block;
+	color: yellow
+	text-align: center;
+	padding: 16px;
+}
+.menu a:hover{
+	color: blue;
+	background-color: green;
+}
+.izquierda{
+	float: left;
+	width: 70%;
+}
+.objeto{
+	background-color: blue;
+	padding: 20px;
+	margin-top: 20px; 
+}
+.imagen{
+	width:200px;
+}
+.body{
+	background-color: blue;
+}
+.derecha{
+	float: left;
+	width: 25%
+	background-color: yellow;
+	padding-left: 20px;
+}
+.footer{ 
+padding:10px;
+text-align:center;
+background-color: yellow;
+margin-top:10px;
+ }
