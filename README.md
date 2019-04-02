@@ -1,2 +1,4 @@
 # rafa87eg.github.io
-Mi primera pagina muy humilde a comparación de mis compañeros :(
+<h2> RafaeL Espinoza Gastélum </h2>
+  <h2> Sebastián Delgado López </h2>
+
